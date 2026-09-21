@@ -24,28 +24,28 @@
 
 <br/>
 
-\`\`\`text
+```text
 ╔══════════════════════════════════════════════════════════════════╗
-║               KRISHNANSH // ENGINEERING CONTROL ROOM              ║
+║               KRISHNANSH // ENGINEERING CONTROL ROOM             ║
 ╠══════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║   IDENTITY               SYSTEMS                 SIGNAL           ║
-║   ────────               ───────                 ──────           ║
-║   Software Engineer      Salesforce              ● ONLINE         ║
-║   AI Engineer            OmniStudio              ● ONLINE         ║
-║   Builder                AI / ML                 ● ACTIVE         ║
-║                          Computer Vision          ● ACTIVE         ║
-║                          Automation               ● BUILDING       ║
-║                                                                    ║
+║                                                                  ║
+║   IDENTITY               SYSTEMS                 SIGNAL          ║
+║   ────────               ───────                 ──────          ║
+║   Software Engineer      Salesforce              ● ONLINE        ║
+║   AI Engineer            OmniStudio              ● ONLINE        ║
+║   Builder                AI / ML                 ● ACTIVE        ║
+║                          Computer Vision         ● ACTIVE        ║
+║                          Automation              ● BUILDING      ║
+║                                                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║   CURRENT MISSION                                                 ║
-║                                                                    ║
-║   Enterprise Salesforce systems + experimental AI                 ║
-║   + computer vision + automation                                  ║
-║                                                                    ║
+║                                                                  ║
+║   CURRENT MISSION                                                ║
+║                                                                  ║
+║   Enterprise Salesforce systems + experimental AI                ║
+║   + computer vision + automation                                 ║
+║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
-\`\`\`
+```
 
 <br/>
 
@@ -63,7 +63,7 @@ haven't found a production home yet.
 
 ## 04 — ENGINEERING DNA
 
-\`\`\`text
+```text
                               KRISHNANSH
                                   │
                   ┌───────────────┴───────────────┐
@@ -77,7 +77,7 @@ haven't found a production home yet.
         SOQL · Flows · DataRaptors       LiDAR · Sensor Fusion
         Integration Procedures            Video AI · Edge Inference
         FlexCards · OmniScripts
-\`\`\`
+```
 
 **Enterprise Engine** — Apex · LWC · OmniStudio · SOQL · Flows · DataRaptors · Integration Procedures · FlexCards · OmniScripts · Git · Agile
 
@@ -87,7 +87,7 @@ haven't found a production home yet.
 
 ## 05 — CAREER TIMELINE
 
-\`\`\`text
+```text
 2024 ── AI Developer Intern (Microstop Infotech)
     │   + IIIT Hyderabad Mobility Fellowship
     │
@@ -95,7 +95,7 @@ haven't found a production home yet.
     │   + Salesforce Engineering (TechMatrix Consulting)
     │
 2026 ── Associate Software Engineer (TechMatrix Consulting)
-\`\`\`
+```
 
 <br/>
 
@@ -107,15 +107,15 @@ haven't found a production home yet.
 
 Real-time road safety system using LiDAR and sensor fusion to detect potholes at high speed.
 
-\`\`\`text
+```text
 LiDAR + Sensors → Sensor Fusion → ML / Computer Vision → Real-time Detection → Road Safety
-\`\`\`
+```
 
-\`Metrics\` 90%+ accuracy · 15K+ sensor readings/sec · 70% reduction in inspection time
+`Metrics` 90%+ accuracy · 15K+ sensor readings/sec · 70% reduction in inspection time
 
-\`Stack\` Machine Learning · Computer Vision · Embedded Systems · Geospatial Analysis · LiDAR · Sensor Fusion
+`Stack` Machine Learning · Computer Vision · Embedded Systems · Geospatial Analysis · LiDAR · Sensor Fusion
 
-\`Repo\` https://github.com/KrishnanshVasaniya/pothole-detection-ai
+`Repo` https://github.com/KrishnanshVasaniya/pothole-detection-ai
 
 <br/>
 
@@ -123,11 +123,11 @@ LiDAR + Sensors → Sensor Fusion → ML / Computer Vision → Real-time Detecti
 
 Chrome extension that searches Salesforce metadata from local XML files for faster developer navigation.
 
-\`\`\`text
+```text
 Local XML → Metadata Index → Search → Objects / Fields / Rules / Flows / Apex / LWC
-\`\`\`
+```
 
-\`Stack\` JavaScript · Chrome Extension API · XML · Salesforce Metadata API
+`Stack` JavaScript · Chrome Extension API · XML · Salesforce Metadata API
 
 <br/>
 
@@ -135,15 +135,15 @@ Local XML → Metadata Index → Search → Objects / Fields / Rules / Flows / A
 
 Streamlit-based attendance system using facial recognition on live webcam and image input.
 
-\`\`\`text
+```text
 Camera → Image Capture → Face Detection → Face Recognition → Attendance
-\`\`\`
+```
 
-\`Metric\` 95% attendance recognition accuracy
+`Metric` 95% attendance recognition accuracy
 
-\`Stack\` Python · OpenCV · Streamlit · Face Recognition · Azure IoT Edge
+`Stack` Python · OpenCV · Streamlit · Face Recognition · Azure IoT Edge
 
-\`Repo\` https://github.com/KrishnanshVasaniya/face_attendance_streamlit
+`Repo` https://github.com/KrishnanshVasaniya/face_attendance_streamlit
 
 <br/>
 
@@ -152,35 +152,35 @@ Camera → Image Capture → Face Detection → Face Recognition → Attendance
 Not everything I build starts as a project. Some things start as an experiment.
 These are ongoing explorations, not shipped products.
 
-\`\`\`text
+```text
 [01] AI VIDEO           Video → AI → Stylization → Video
 [02] LOCAL AI            AI workloads on Apple Silicon (MPS)
 [03] AUTOMATION          Generate → Process → Schedule → Publish
 [04] DEVELOPER TOOLS     Removing repetitive workflows
 [05] AGENTIC AI          Exploring AI-driven software workflows
-\`\`\`
+```
 
-\`[01]\` Experimenting with video-to-video AI stylization and anime-style transformation — Python, PyTorch, FFmpeg, Apple Silicon / MPS.
+`[01]` Experimenting with video-to-video AI stylization and anime-style transformation — Python, PyTorch, FFmpeg, Apple Silicon / MPS.
 
-\`[02]\` Running local AI inference on Apple Silicon instead of cloud compute.
+`[02]` Running local AI inference on Apple Silicon instead of cloud compute.
 
-\`[03]\` A YouTube Shorts pipeline — fact data, short generation, typography rendering, FFmpeg, scheduled publishing — that has run at up to 8 Shorts/day.
+`[03]` A YouTube Shorts pipeline — fact data, short generation, typography rendering, FFmpeg, scheduled publishing — that has run at up to 8 Shorts/day.
 
-\`[04]\` Day-to-day experiments with AI coding tools — Claude, Cursor — to remove repetitive developer workflows.
+`[04]` Day-to-day experiments with AI coding tools — Claude, Cursor — to remove repetitive developer workflows.
 
-\`[05]\` Early exploration of agentic, AI-driven software workflows.
+`[05]` Early exploration of agentic, AI-driven software workflows.
 
 <br/>
 
 ## 08 — CURRENT STATE
 
-\`\`\`text
+```text
 Enterprise Software     █████████████████░░░
 AI / Machine Learning   ██████████████░░░░░░
 Computer Vision         █████████████░░░░░░░
 Automation              ████████████████░░░░
 Experimentation         ███████████████░░░░░
-\`\`\`
+```
 
 *The bars are a visual representation of areas I currently work with — not quantitative skill ratings.*
 
@@ -229,9 +229,9 @@ CGPA: 7.11 / 10
 
 ## 13 — ENGINEERING PHILOSOPHY
 
-\`\`\`text
+```text
 PROBLEM → RESEARCH → PROTOTYPE → TEST → ITERATE → SYSTEM
-\`\`\`
+```
 
 I enjoy the part between:
 *"This should work."*
@@ -242,7 +242,7 @@ and
 
 ## 14 — DEVELOPER TERMINAL
 
-\`\`\`bash
+```bash
 $ whoami
 Krishnansh Vasaniya
 
@@ -260,7 +260,7 @@ $ status
 
 $ next
 Something interesting.
-\`\`\`
+```
 
 <br/>
 
@@ -286,12 +286,12 @@ Something interesting.
 
 <div align="center">
 
-\`\`\`text
+```text
 KRISHNANSH // SYSTEM ONLINE
 
 Building systems.
 Breaking assumptions.
 Learning continuously.
-\`\`\`
+```
 
 </div>
