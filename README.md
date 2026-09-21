@@ -71,10 +71,11 @@ Ongoing experiments, not shipped products: AI video stylization (PyTorch, FFmpeg
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KrishnanshVasaniya&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=KrishnanshVasaniya&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=KrishnanshVasaniya&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnanshVasaniya&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/KrishnanshVasaniya/KrishnanshVasaniya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
