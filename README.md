@@ -39,6 +39,8 @@ I build enterprise applications on Salesforce â€” Apex, LWC, OmniStudio, Flows â
 ![LWC](https://img.shields.io/badge/LWC-0D1117?style=flat-square&logo=salesforce&logoColor=00FF9C)
 ![OmniStudio](https://img.shields.io/badge/OmniStudio-0D1117?style=flat-square&logo=salesforce&logoColor=00FF9C)
 ![Flows](https://img.shields.io/badge/Flows-0D1117?style=flat-square&logo=salesforce&logoColor=00FF9C)
+![SOQL](https://img.shields.io/badge/SOQL-0D1117?style=flat-square&logo=salesforce&logoColor=00FF9C)
+![Agentforce](https://img.shields.io/badge/Agentforce-0D1117?style=flat-square&logo=salesforce&logoColor=00FF9C)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00FF9C)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-0D1117?style=flat-square&logoColor=00FF9C)
 
@@ -74,14 +76,6 @@ Ongoing experiments, not shipped products: AI video stylization (PyTorch, FFmpeg
 <img src="https://streak-stats.demolab.com?user=KrishnanshVasaniya&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="60%"/>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/KrishnanshVasaniya/KrishnanshVasaniya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/KrishnanshVasaniya/KrishnanshVasaniya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
